@@ -1,0 +1,1 @@
+Um projeto de portfólio criado e apresentado pela Desenvolvedora Gabriela Pinheiro, com o intuito de modificar e mostrar minhas habilidades atuais com os códigos apresentados por ela.
